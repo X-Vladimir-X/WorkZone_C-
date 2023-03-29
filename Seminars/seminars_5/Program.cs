@@ -72,7 +72,7 @@ void PrintArray(int[] numbers)
     Console.Write("]");
     Console.WriteLine();
 }
-*/
+
 
 // Задача 38: Задайте массив вещественных чисел. 
 // Найдите разницу между максимальным и минимальным элементов массива. 
@@ -121,3 +121,4 @@ void PrintArray(double[] numbers)
     Console.Write("]");
     Console.WriteLine();
 }
+*/
